@@ -1,0 +1,8 @@
+1.Navbar (make navbar with three menu allnote,login,signup)                                                      x
+   -->  2. Home (show title, desc, username, time)                                                               x
+   -->  3.LogIn  (add email and password inputs and button)                                                      x
+           --> 4.Note (render addnote component, update component form, render mynotes via map)               
+                 --> 5.AddNote (form consist title , desc)                                                       x
+                 --> 6.MyNote  (show title, desc, username, update btn , delete btn, time)                               
+   -->  7.SignUp  (Take username, email, password , confirm password as input and btn)                           x
+8.Alert  (Alert)
